@@ -41,3 +41,5 @@ Focused on real-world business KPIs
 Interactive and user-friendly layout for both technical and non-technical users
 
 Clean, corporate-style design suitable for executive dashboards
+
+Dashboard Preview  (https://github.com/botheshu-ctrl/Flipmart-Sales-Dashboard/blob/main/Snapshot%20of%20dashboard.png)
